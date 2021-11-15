@@ -1,4 +1,16 @@
-# client
+# Find your Fire Extinguisher
+
+## Goal
+Learning nuxt and your features
+
+## State project
+
+<h4 align="center"> 
+	✔️ Done ✔️
+</h4>
+
+## Preview
+Check the video on <a href="https://youtu.be/I9_WWwtVgUo" target="_blank">YouTube</a>
 
 ## Build Setup
 
