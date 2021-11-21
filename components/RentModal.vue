@@ -34,6 +34,7 @@ import { mapMutations } from 'vuex'
     props: ['product'],
     methods: {
       showModal() {
+        console.log('teste')
         this.$refs['my-modal'].show()
       },
       hideModal() {
