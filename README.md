@@ -1,7 +1,8 @@
 # Find your Fire Extinguisher
 
 ## Goal
-Learning nuxt and your features
+
+Nuxt and your features in a landpage seo
 
 ## State project
 
